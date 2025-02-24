@@ -1,6 +1,6 @@
 streamlit
-numpy as np
-pandas as pd
+numpy
+pandas
 scikit-learn
 datetime
 pickle
